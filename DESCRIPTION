@@ -1,0 +1,9 @@
+Package: MediaPackage
+Type: Package
+Title: Medie
+Version: 0.0-0
+Date: 2020-03-25
+Author: AntonioP-R
+Maintainer: AntonioP-R <antoniop.r0033@gmail.com>
+Description: Il pacchetto contiene le seguenti funzioni: media aritmetica, armonica, geometrica e quadratica.
+License: GPL-3
